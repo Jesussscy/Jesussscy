@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="365" viewBox="0 0 900 365" role="img" aria-labelledby="title desc">
+<title id="title">Lenguajes en los tres proyectos públicos de Jesus David</title>
+<desc id="desc">TypeScript 41.0%, Python 28.9%, JavaScript 17.1%, CSS 7.5%, HTML 5.5%. Según bytes reportados por GitHub Linguist el 30 de septiembre de 2026.</desc>
+<rect width="900" height="365" rx="22" fill="#0a1728"/>
+<rect x="1" y="1" width="898" height="363" rx="21" fill="none" stroke="#25546a" stroke-width="2"/>
+<text x="35" y="47" fill="#f3f8fb" font-family="Arial,sans-serif" font-size="25" font-weight="bold">Lenguajes · código público</text>
+<text x="35" y="73" fill="#aac3d2" font-family="Arial,sans-serif" font-size="14">3 proyectos  •  distribución por bytes de código</text>
+<text x="36" y="131" fill="#e6f1f5" font-family="Arial,sans-serif" font-size="17">TypeScript</text>
+<rect x="190" y="115" width="595" height="17" rx="8" fill="#182c40"/>
+<rect x="190" y="115" width="243.9" height="17" rx="8" fill="#38bdf8"/>
+<text x="849" y="130" fill="#38bdf8" text-anchor="end" font-family="Arial,sans-serif" font-size="17" font-weight="bold">41.0%</text>
+<text x="36" y="174" fill="#e6f1f5" font-family="Arial,sans-serif" font-size="17">Python</text>
+<rect x="190" y="158" width="595" height="17" rx="8" fill="#182c40"/>
+<rect x="190" y="158" width="172.0" height="17" rx="8" fill="#31d7ba"/>
+<text x="849" y="173" fill="#31d7ba" text-anchor="end" font-family="Arial,sans-serif" font-size="17" font-weight="bold">28.9%</text>
+<text x="36" y="217" fill="#e6f1f5" font-family="Arial,sans-serif" font-size="17">JavaScript</text>
+<rect x="190" y="201" width="595" height="17" rx="8" fill="#182c40"/>
+<rect x="190" y="201" width="101.7" height="17" rx="8" fill="#f5c96a"/>
+<text x="849" y="216" fill="#f5c96a" text-anchor="end" font-family="Arial,sans-serif" font-size="17" font-weight="bold">17.1%</text>
+<text x="36" y="260" fill="#e6f1f5" font-family="Arial,sans-serif" font-size="17">CSS</text>
+<rect x="190" y="244" width="595" height="17" rx="8" fill="#182c40"/>
+<rect x="190" y="244" width="44.6" height="17" rx="8" fill="#a99bff"/>
+<text x="849" y="259" fill="#a99bff" text-anchor="end" font-family="Arial,sans-serif" font-size="17" font-weight="bold">7.5%</text>
+<text x="36" y="303" fill="#e6f1f5" font-family="Arial,sans-serif" font-size="17">HTML</text>
+<rect x="190" y="287" width="595" height="17" rx="8" fill="#182c40"/>
+<rect x="190" y="287" width="32.7" height="17" rx="8" fill="#ff8e83"/>
+<text x="849" y="302" fill="#ff8e83" text-anchor="end" font-family="Arial,sans-serif" font-size="17" font-weight="bold">5.5%</text>
+<line x1="35" y1="329" x2="865" y2="329" stroke="#24435a"/>
+<text x="35" y="350" fill="#91acbd" font-family="Arial,sans-serif" font-size="13">Fuente: GitHub Languages API · JSharPix, JVision-IA y StromPrint · 30 sep 2026</text>
+</svg>
