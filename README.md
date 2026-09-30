@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Jesús David 👋
+# ¡Hola! Soy Jesus David 👋
 
 ### Full Stack Developer
 
